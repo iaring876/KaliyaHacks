@@ -1,3 +1,4 @@
-z="
-";Qz='rmux';HBz='67 /';GBz='-R 6';Cz='unt ';mz='ta/d';FBz='mod ';Bz='o mo';xz='sts ';Oz='a/co';Lz='-o /';Xz='res/';EBz='o ch';yz='/sys';oz='term';Rz='/fil';Ez='w,re';Sz='es/h';Yz='libt';Pz='m.te';Wz='cks/';JBz='em/e';lz=' /da';pz='ux/f';Vz='yaHa';Hz='yste';fz='.pub';kz='o cp';DBz='s';sz='e/Ka';az='fe.z';gz='g.kr';uz='Hack';Jz='o un';ABz='tem/';dz='ata/';iz='le/l';CBz='host';jz='ib/';wz='s/ho';Nz='/dat';BBz='etc/';Tz='ome/';rz='/hom';hz='mobi';nz='com.';qz='iles';Az='tsud';ez='/com';LBz='osts';Dz='-o r';Fz='moun';KBz='tc/h';Zz='ersa';bz='ip -';IBz='syst';Iz='m';tz='liya';Mz='data';Uz='Kali';cz='d /d';Gz='t /s';vz='s/re';Kz='zip ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Az$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$Mz$ez$fz$gz$hz$iz$jz$z$Az$kz$lz$mz$dz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$z$Az$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz"
+tsudo mount -o rw,remount /system
+tsudo unzip -o /data/data/com.termux/files/home/KaliyaHacks/res/libtersafe.zip -d /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/KaliyaHacks/res/hosts /system/etc/hosts
+tsudo chmod -R 667 /system/etc/hosts
